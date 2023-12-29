@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)]
+![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <h1 align="center">Hey 👋, this is Ashif</h1>
 <h3 align="center">Software Devveloper!!!</h3>
 <img
@@ -8,11 +8,16 @@
   src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"
 />
 
-- ⚙️ I’m currently working on **Lightweight keyboard application.** - 📋
-Currently expanding skills in **Django, Docker, and Kubernetes** - 💬 Ask me
-about **Python, Linux, front-end development, and custom Android ROMs.** - 📫
-Reach me here -> **mohamedashif1310@gmail.com** - ⚡ Fun fact **Passionate about
-custom ROMs, Linux distros, and coding nightly builds for some fun!**
+- ⚙️ I’m currently working on **Lightweight keyboard application.**
+
+- 📋 Currently expanding skills in **Django, Docker, and Kubernetes**
+
+- 💬 Ask me about **Python, Linux, front-end development, and custom Android ROMs.**
+
+- 📫 Reach me here -> **mohamedashif1310@gmail.com**
+
+- ⚡ Fun fact **Passionate about custom ROMs, Linux distros, and coding nightly builds for some fun!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

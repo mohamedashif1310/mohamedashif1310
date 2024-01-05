@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <h1 align="center">Hey 👋, this is Ashif</h1>
-<h3 align="center">Software Devveloper!!!</h3>
+<h3 align="center">Software Developer!!!</h3>
 <img
   align="right"
   alt="Coding"
